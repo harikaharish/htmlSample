@@ -34,7 +34,7 @@
 .input-block-level {
   display: block;
   width: 100%;
-  min-height: 30px;
+  min-height: 31px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -85,7 +85,7 @@ a:active {
 sub,
 sup {
   position: relative;
-  font-size: 75%;
+  font-size: 76%;
   line-height: 0;
   vertical-align: baseline;
 }
